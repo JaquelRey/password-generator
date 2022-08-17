@@ -36,5 +36,4 @@ The html and css for this project were supplied by my instructor (Ross Ritchey w
 
 ## Acknowledgments
 
-This was one of the first projects we worked on as an  
-introduction to javascript. In addition to w3schools, MDN, and stackoverflow, I used this page https://owasp.org/www-community/password-special-characters to learn what special characters I could use in a password.
+This was one of the first projects we worked on as an introduction to javascript. In addition to w3schools, MDN, and stackoverflow, I used this page https://owasp.org/www-community/password-special-characters to learn what special characters I could use in a password.
